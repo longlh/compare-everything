@@ -1,5 +1,5 @@
 {
-  "name": "compare-everything",
+  "name": "compare-everything-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/longlh/compare-everything.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "d@dapps.me",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/longlh/compare-everything/issues"
